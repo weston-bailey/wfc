@@ -5,9 +5,11 @@ executing==1.0.0
 ipython==8.5.0
 jedi==0.18.1
 matplotlib-inline==0.1.6
+numpy==1.23.3
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
+Pillow==9.2.0
 prompt-toolkit==3.0.31
 ptyprocess==0.7.0
 pure-eval==0.2.2
